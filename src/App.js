@@ -5,6 +5,7 @@ import Footer from './components/Footer/Footer';
 import IntroSection from './components/IntroSection/IntroSection';
 import NewsLetter from './components/NewsLetter/NewsLetter';
 import OurTeamSection from './components/OurTeamSection/OurTeamSection';
+import Testimonial from './components/Testimonial/Testimonial';
 import WhyUsSection from './components/WhyUsSection/WhyUsSection';
 import Header from './components/header/Header/Header';
 
@@ -15,6 +16,7 @@ function App() {
       <IntroSection />
       <WhyUsSection />
       <AreaOfPractices />
+      <Testimonial />
       <OurTeamSection />
       <FaqSection />
       <NewsLetter />

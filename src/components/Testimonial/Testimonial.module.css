@@ -1,0 +1,13 @@
+.testimonialWrapper img {
+    width: 90px;
+    height: 90px;
+    margin-top: auto;
+    padding: 0px 2px;
+    cursor: pointer;
+}
+
+.testomonialCard img{
+    margin: 36px 0px;
+}
+
+

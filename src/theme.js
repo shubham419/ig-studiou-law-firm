@@ -13,14 +13,14 @@ export default createTheme({
       light: "#212121",
     },
     background: {
-      default: "#121212", // Customize the default background color
-      paper: "#1f1f1f", // Customize the background color for paper surfaces
+      default: "#121212",
+      paper: "#1f1f1f", 
     },
 
     text: {
-      primary: "#ffffff", // Customize the primary text color
-      secondary: "#ffff", // Customize the secondary text color
-      disabled: "#999999", // Customize the disabled text color
+      primary: "#ffffff", 
+      secondary: "#ffff",
+      disabled: "#999999", 
     },
   },
   components: {
@@ -34,6 +34,6 @@ export default createTheme({
     },
   },
   typography: {
-    fontFamily:  "Inter, sans-serif", // Replace with the desired font stack
+    fontFamily:  "Inter, sans-serif", 
   },
 });
