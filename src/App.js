@@ -1,6 +1,7 @@
 import './App.css';
 import AreaOfPractices from './components/AreaOfPractice/AreaOfPractices';
 import FaqSection from './components/FaqSection/FaqSection';
+import Footer from './components/Footer/Footer';
 import IntroSection from './components/IntroSection/IntroSection';
 import NewsLetter from './components/NewsLetter/NewsLetter';
 import OurTeamSection from './components/OurTeamSection/OurTeamSection';
@@ -17,7 +18,7 @@ function App() {
       <OurTeamSection />
       <FaqSection />
       <NewsLetter />
-     Hello World
+      <Footer />
     </div>
   );
 }
