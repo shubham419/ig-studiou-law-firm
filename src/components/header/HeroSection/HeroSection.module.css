@@ -1,0 +1,27 @@
+.wrapper {
+    display: flex;
+    width: 100%;
+}
+
+.content_div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 70%;
+    padding-right: 30px;
+
+}
+
+.img_div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 30%; 
+    height: 34rem;
+    & img{
+        max-width: 400px;
+       width: 100%; 
+       height: auto;
+       max-height: 100%;
+    }
+}

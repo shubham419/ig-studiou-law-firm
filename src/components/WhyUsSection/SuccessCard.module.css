@@ -1,0 +1,24 @@
+.cardWrapper{
+    width:  359px;
+    height: 377px;
+    border: solid #212121 1px;
+    border-radius: 14px;
+    padding-left: 24px;
+
+}
+
+.svgBackground{
+    display: flex;
+    align-items: center;
+    justify-content: center;    height: 101px;
+    width: 101px;
+    margin-top:28px;
+
+    padding: 30px;
+    background-color: white;
+    border-radius: 100px;
+
+    & svg {
+        width: auto;
+    }
+}

@@ -1,0 +1,11 @@
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 172px;
+    margin-bottom: 186px;
+}
+
+.divider{
+    width: 1px;
+    background: #ffff
+}

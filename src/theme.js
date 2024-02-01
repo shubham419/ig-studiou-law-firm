@@ -9,6 +9,8 @@ export default createTheme({
     },
     secondary: {
       main: "#edf2ff",
+      contrastText: "#585858",
+      light: "#212121",
     },
     background: {
       default: "#121212", // Customize the default background color
